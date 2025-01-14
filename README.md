@@ -23,6 +23,6 @@ Model 1: Used 3 layers of filters to extract image features, plus some final lay
 Model 2: A simpler version with 2 layers. Accuracy: ~67%.
 Training & Testing: We trained the models using thousands of images, checked their accuracy, and fine-tuned the process.
 
-Concluseion-
+Conclusion-
 Model 1 worked well for classifying the images.
 Visual tools like confusion matrices and accuracy graphs helped us see where the models performed well (or struggled).
